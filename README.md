@@ -1,1 +1,1 @@
-# An RNN Template for Computational Neuroscience
+# RNN template for Computational Neuroscience
